@@ -1,3 +1,19 @@
+# おやま版パパママMAPについて
+code for SAPPORO の[「さっぽろ保育園マップ」](https://www.codeforsapporo.org/2014/10/23/papamama/)をベースに、「おやま保育園マップ」にしました
+
+## 使用データについて
+
+[子育て施設一覧](https://www.city.oyama.tochigi.jp/opendata.php#)
+
+- [子育て施設一覧_オープンデータ 211201 Preschool CSV（文字コード：UTF-8）](https://www.city.oyama.tochigi.jp/opendata_download.php?code=332)
+
+
+
+
+
+以下は、code for SAPPOROのREADME文
+
+```
 # さっぽろパパママMAPについて
 
 札幌市内に点在する保育所（認可、認可外）、幼稚園の位置・定員情報をマッピングした地図を作成しています。
@@ -28,3 +44,4 @@ MITライセンス条件を満たす限り、自由な複製・配布・修正�
 - データの定義については、以下を参考にしてください。
 https://github.com/codeforsapporo/papamama/blob/master/doc/dataSpecification.xls
 - js/index.js の変数 init_center_coords、bing_api_key の値を変更することで、初期表示位置情報を変更できます。
+```
